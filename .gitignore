@@ -1,6 +1,7 @@
 venv
 .venv
-.env
 .aider*
 *.json
 *.pyc
+config.bat
+node_modules
